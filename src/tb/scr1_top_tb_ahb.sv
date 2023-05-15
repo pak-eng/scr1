@@ -354,5 +354,7 @@ scr1_memory_tb_ahb #(
     .dmem_hresp             (dmem_hresp )
 );
 
+bne_detect inst_bne_detect();
+
 endmodule : scr1_top_tb_ahb
 

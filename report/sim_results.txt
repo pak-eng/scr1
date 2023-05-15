@@ -1,0 +1,50 @@
+scr1_top_tb_ahb
+[0;34m---Test:                          bne.hex[0m
+BNE instruction detected, Program Counter = 2ba
+BNE instruction detected, Program Counter = 2be
+BNE instruction detected, Program Counter = 2c0
+BNE instruction detected, Program Counter = 2cc
+BNE instruction detected, Program Counter = 2cc
+BNE instruction detected, Program Counter = 2c8
+BNE instruction detected, Program Counter = 2c8
+BNE instruction detected, Program Counter = 2c8
+BNE instruction detected, Program Counter = 2ee
+BNE instruction detected, Program Counter = 2f2
+BNE instruction detected, Program Counter = 2f4
+BNE instruction detected, Program Counter = 300
+BNE instruction detected, Program Counter = 300
+BNE instruction detected, Program Counter = 2fc
+BNE instruction detected, Program Counter = 2fc
+BNE instruction detected, Program Counter = 2fc
+BNE instruction detected, Program Counter = 31e
+BNE instruction detected, Program Counter = 322
+BNE instruction detected, Program Counter = 324
+BNE instruction detected, Program Counter = 328
+BNE instruction detected, Program Counter = 330
+BNE instruction detected, Program Counter = 362
+BNE instruction detected, Program Counter = 368
+BNE instruction detected, Program Counter = 362
+BNE instruction detected, Program Counter = 368
+BNE instruction detected, Program Counter = 37a
+BNE instruction detected, Program Counter = 380
+BNE instruction detected, Program Counter = 37a
+BNE instruction detected, Program Counter = 380
+BNE instruction detected, Program Counter = 3ea
+BNE instruction detected, Program Counter = 3f0
+BNE instruction detected, Program Counter = 3ea
+BNE instruction detected, Program Counter = 3f0
+BNE instruction detected, Program Counter = 402
+BNE instruction detected, Program Counter = 408
+BNE instruction detected, Program Counter = 402
+BNE instruction detected, Program Counter = 408
+BNE instruction detected, Program Counter = 456
+BNE instruction detected, Program Counter = 456
+BNE instruction detected, Program Counter = 46a
+BNE instruction detected, Program Counter = 46e
+[0;32mTest passed[0m
+
+#--------------------------------------
+# Summary: 1/1 tests passed
+#--------------------------------------
+
+- /home/pak-admin/Workspace/SCR-1_source/scr1/src/tb/scr1_top_tb_runtests.sv:181: Verilog $finish

@@ -1,0 +1,35 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sun May 14 22:28:59 2023
+[*]
+[dumpfile] "/home/pak-admin/Workspace/lab3/scr1/build/verilator_wf_AHB_MAX_imc_IPIC_1_TCM_1_VIRQ_1_TRACE_1/simx.vcd"
+[dumpfile_mtime] "Sun May 14 21:36:44 2023"
+[dumpfile_size] 923105
+[savefile] "/home/pak-admin/Workspace/SCR-1_source/lab3Settings.gtkw"
+[timestart] 1
+[size] 1916 807
+[pos] -1 -1
+*-6.427577 148 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] scr1_top_tb_ahb.
+[treeopen] scr1_top_tb_ahb.i_top.
+[treeopen] scr1_top_tb_ahb.i_top.i_core_top.
+[treeopen] scr1_top_tb_ahb.i_top.i_core_top.i_pipe_top.
+[treeopen] scr1_top_tb_ahb.i_top.i_dmem_ahb.
+[treeopen] scr1_top_tb_ahb.i_top.i_imem_ahb.
+[treeopen] scr1_top_tb_ahb.i_top.i_tcm.
+[sst_width] 298
+[signals_width] 276
+[sst_expanded] 1
+[sst_vpaned_height] 221
+@28
+TOP.clk
+@22
+scr1_top_tb_ahb.i_top.i_core_top.i_pipe_top.curr_pc[31:0]
+scr1_top_tb_ahb.i_top.i_imem_ahb.imem_rdata[31:0]
+scr1_top_tb_ahb.i_top.i_core_top.i_pipe_top.exu2mprf_rs1_addr[4:0]
+scr1_top_tb_ahb.i_top.i_core_top.i_pipe_top.mprf2exu_rs1_data[31:0]
+scr1_top_tb_ahb.i_top.i_core_top.i_pipe_top.exu2mprf_rs2_addr[4:0]
+@23
+scr1_top_tb_ahb.i_top.i_core_top.i_pipe_top.mprf2exu_rs2_data[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
